@@ -56,6 +56,18 @@ Cursando
 *  [Linkedin](https://www.linkedin.com/in/wendy-anna-albuquerque-lopes-48849341/)
 
 
+<!--! [] (https://komarev.com/ghpvc/?username=Wendy-Anna&color=blueviolet)-->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendy-Anna&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Wendy-Anna&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
+
+
 
 <!--
 **Wendy-Anna/Wendy-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,4 +82,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<td><img width="495px" align="left" src="https://komarev.com/ghpvc/?username=Wendy-Anna&label=PROFILE+VIEWS" /></td>
 -->
