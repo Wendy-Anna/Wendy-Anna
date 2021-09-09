@@ -5,23 +5,21 @@
 	<img src="Profile.jpg" width="200">
 </p>
 <p>
-    <p align="center"><em>Desenvolvedor Back-end - Junior / Backend C# - ASP.NET CORE. :vulcan_salute: :man_technologist:</em></p>
+    <p align="center"><em>Desenvolvedora Back-end - Junior / Backend Kotlin. :vulcan_salute: :man_technologist:</em></p>
 </p>
 
 <hr>
 
-:house:    Recife/PE <br>
+:house:    São Paulo/SP <br>
 :iphone:   (83) 98710 - 8953 <br>
 📫:  wendyufpb@gmail.com
 
-⚡ Meu nome é Wendy-Anna, sou desenvolvedora back-end, entusiasta do C# e  ASP.NET CORE encantada por JavaScript, com uma paixão leve por Angular e Bootstrap. Nas horas vagas gosto de ler livros e mangás, e quando sobra tempo assisto animes.
+⚡ Meu nome é Wendy-Anna, sou desenvolvedora back-end, entusiasta de Koglin encantada por JavaScript, com uma paixão leve por Angular e Bootstrap. Nas horas vagas gosto de ler livros e mangás, e quando sobra tempo assisto animes.
 
 ## Formação
 😄 Universidade Federal da Paraíba, Sistemas de Informação <br>
 Concluído em 2018
 
-🌱 Mestrado na Universidade de São Paulo, Sistemas de Informação <br>
-Cursando
 
 ## Conhecimentos
 
@@ -31,6 +29,7 @@ Cursando
 * Inglês suficiente para ler e entender.
 
 ### Back-end
+* Kotlin  (Estudando 🌱)
 * C#
 * ASP.NET CORE (Estudando 🌱)
 * Java.
