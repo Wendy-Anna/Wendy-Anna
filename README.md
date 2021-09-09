@@ -14,7 +14,7 @@
 :iphone:   (83) 98710 - 8953 <br>
 📫:  wendyufpb@gmail.com
 
-⚡ Meu nome é Wendy-Anna, sou desenvolvedora back-end, entusiasta de Koglin encantada por JavaScript, com uma paixão leve por Angular e Bootstrap. Nas horas vagas gosto de ler livros e mangás, e quando sobra tempo assisto animes.
+⚡ Meu nome é Wendy-Anna, sou desenvolvedora back-end, entusiasta de Kotlin encantada por JavaScript, com uma paixão leve por Angular e Bootstrap. Nas horas vagas gosto de ler livros e mangás, e quando sobra tempo assisto animes.
 
 ## Formação
 😄 Universidade Federal da Paraíba, Sistemas de Informação <br>
