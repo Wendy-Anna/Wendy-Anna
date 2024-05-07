@@ -30,7 +30,6 @@ Março de 2021 - o momento
 ## Conhecimentos
 
 ### Gerais
-* AWS
 * Estrutura de Dados
 * Inglês suficiente para ler e entender
 * Docker
