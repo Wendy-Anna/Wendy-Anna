@@ -5,7 +5,7 @@
 	<img src="Profile.jpg" width="200">
 </p>
 <p>
-    <p align="center"><em>Desenvolvedora Back-end - Junior / Backend Kotlin. :vulcan_salute: :man_technologist:</em></p>
+    <p align="center"><em>Desenvolvedora Back-end - Junior / Backend Java/Kotlin. :vulcan_salute: :man_technologist:</em></p>
 </p>
 
 <hr>
@@ -24,34 +24,29 @@ Concluído em 2018
 ## Conhecimentos
 
 ### Gerais
-* Lógica de Programação.
+* AWS
 * Estrutura de Dados
-* Inglês suficiente para ler e entender.
+* Inglês suficiente para ler e entender
+* Docker
+* AWS
+* CloudFront
+* API Gateway 
+* Swagger
 
 ### Back-end
+* Experiência de 3 anos com Java 11, JPA
+* Experiência com Spring Boot, OAuth2, JWT, Maven/Gradle, Microservices
+* Experiência com Testes unitários, JUnit
+* Vivência com arquitetura REST
 * Kotlin  (Estudando 🌱)
-* C#
-* ASP.NET CORE (Estudando 🌱)
-* Java.
-
-### Front-end
-* HTML.
-  * Markdown.
-* CSS (Design Responsivo 🌱).
-  * SASS (Estudando 🌱)
-  
-### Frameworks Front-end
-* Angular (Estudando 🌱)
-* Bootstrap (Estudando 🌱)
-
 
 ### Banco de Dados
-* SQLServer.
-* PostgreSQL.
+* SQLServer
+* MySQL
+* DynamoDB
 
 ### Sistemas de controle de versão
 * Git.
  ~
 ## Redes Sociais 💬
-*  [Facebook](https://www.facebook.com/wendyanna.lopes/)
 *  [Linkedin](https://www.linkedin.com/in/wendy-anna-albuquerque-lopes-48849341/)
