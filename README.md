@@ -8,6 +8,42 @@
     <p align="center"><em>Desenvolvedora Back-end - Junior * Java/Kotlin. :vulcan_salute: :man_technologist:</em></p>
 </p>
 
+###
+	
+ <p align="center">
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="30" alt="amazondynamodb logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+	  <img width="12" />
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+	  <img width="12" />
+	  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+</p>
+
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wendy-Anna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wendy-Anna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 <hr>
 
 :house:    São Paulo/SP <br>
@@ -39,7 +75,7 @@ Março de 2021 - o momento
 * Swagger
 
 ### Back-end
-* Experiência de 3 anos com Java 11, JPA
+* Experiência com Java 11, JPA
 * Experiência com Spring Boot, OAuth2, JWT, Maven/Gradle, Microservices
 * Experiência com Testes unitários, JUnit
 * Vivência com arquitetura REST
@@ -50,8 +86,16 @@ Março de 2021 - o momento
 * MySQL
 * DynamoDB
 
-### Sistemas de controle de versão
-* Git.
- ~
+
 ## Redes Sociais 💬
-*  [Linkedin](https://www.linkedin.com/in/wendy-anna-albuquerque-lopes-48849341/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/wendy-anna-albuquerque-lopes-48849341/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="wendyufpb@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
