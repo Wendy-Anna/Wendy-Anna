@@ -5,7 +5,7 @@
 	<img src="Profile.jpg" width="200">
 </p>
 <p>
-    <p align="center"><em>Desenvolvedora Back-end - Junior * Java/Kotlin. :vulcan_salute: :man_technologist:</em></p>
+    <p align="center"><em>Desenvolvedora Back-end - Pleno * Java/Kotlin. :vulcan_salute: :man_technologist:</em></p>
 </p>
 
 ###
