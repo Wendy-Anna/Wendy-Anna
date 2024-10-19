@@ -60,8 +60,10 @@ Concluído em 2018
 Concluído em 2023
 
 ## Experiência
-* Anl. Engenharia de TI Jr -Itaú Unibanco
-Março de 2021 - o momento
+* Anl. Engenharia de TI PL -Itaú Unibanco <p>
+👩‍💻 Outubro de 2024 - até o momento
+* Anl. Engenharia de TI Jr -Itaú Unibanco<p>
+👩‍💻 Março de 2021 - Outubro de 2024
 
 ## Conhecimentos
 
